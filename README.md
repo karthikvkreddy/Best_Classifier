@@ -11,7 +11,7 @@ refer this to install notebook [link](https://jupyter.org/install)
 
 #### Clone this repo
 ```
-git clone https://github.com/karthikreddy958/Machine-Learning-Project.git
+git clone https://github.com/karthikvkreddy/Best_Classifier.git
 ```
 Open in jupyter notebook and enjoy.
 
